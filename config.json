@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsrync",
+        "uuid": 19461981,
+        "checksum": "jbpxm"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
